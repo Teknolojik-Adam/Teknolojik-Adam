@@ -1,18 +1,18 @@
 # 👋 Teknolojikadam
 
-> Pratik masaüstü araçları geliştiriyorum.
+> Building practical desktop tools that just work.
 
 ---
 
-## 🚀 Projelerim
+## 🚀 Projects
 
-- **[🎮 Hyperion](https://teknolojikadam.itch.io/hyperion-launcher)** – Linux'ta Windows oyunlarını Proton/Wine ile yönetin
-- **[🌍 GameTranslator](https://teknolojikadam.itch.io/teknolojikadamgametranslator)** – Oyun içi metinleri OCR ile anında çevirin
-- **[🛡️ T.A_AegisWall](https://teknolojikadam.itch.io/ta-aegiswall)** – Uygulama bazlı basit güvenlik duvarı
-- **[🐧 GameTranslator Linux](https://teknolojikadam.itch.io/gametranslatorlinux)** – Hızlı, modern dosya yöneticisi
+- **[🎮 Hyperion](https://teknolojikadam.itch.io/hyperion-launcher)** – Run Windows games on Linux via Proton/Wine
+- **[🌍 GameTranslator](https://teknolojikadam.itch.io/teknolojikadamgametranslator)** – Real-time in-game text translation with OCR
+- **[🛡️ T.A_AegisWall](https://teknolojikadam.itch.io/ta-aegiswall)** – Simple, app-based firewall for Windows
+- **[🐧 GameTranslator Linux](https://teknolojikadam.itch.io/gametranslatorlinux)** – OCR-based game translator for Linux
 
-👉 Tüm projelerim: [itch.io](https://teknolojikadam.itch.io/)
+👉 All my projects: [itch.io](https://teknolojikadam.itch.io/)
 
 ---
 
-*Kodun Özgürlüğü*
+*Freedom in Code*
